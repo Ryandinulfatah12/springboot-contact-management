@@ -1,4 +1,4 @@
-#Contact API Spec
+# Contact API Spec
 
 ## Create Contact
 Endpoint : POST /api/contacts
