@@ -4,10 +4,10 @@
 This project is a practice project for me to learn the Springboot Restful API
 
 
-## Documentation
-- [User](https://linktodocumentation)
-- [Address](https://linktodocumentation)
-- [Contacts](https://linktodocumentation)
+## Documentation (API Spec)
+- [User](https://github.com/Ryandinulfatah12/springboot-contact-management/blob/main/documentation/user.md)
+- [Address](https://github.com/Ryandinulfatah12/springboot-contact-management/blob/main/documentation/address.md)
+- [Contacts](https://github.com/Ryandinulfatah12/springboot-contact-management/blob/main/documentation/contact.md)
 
 
 
