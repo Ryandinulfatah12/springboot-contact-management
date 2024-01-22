@@ -41,7 +41,7 @@ Response Body (Failed) :
 
 
 ## Update Address
-Endpoint : PATCH /api/contacts/{idContact}/addresses
+Endpoint : PUT /api/contacts/{idContact}/addresses
 
 Request Header :
 - X-API-TOKEN : Mandatory (Token)

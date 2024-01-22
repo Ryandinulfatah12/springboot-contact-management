@@ -39,7 +39,7 @@ Response Body (Failed) :
 
 
 ## Update Contact 
-Endpoint : PATCH /api/contacts
+Endpoint : PUT /api/contacts/{idContact}
 
 Request Header :
 - X-API-TOKEN : Mandatory (Token)
@@ -47,7 +47,6 @@ Request Header :
 Request Body :
 ```json
 {
-  "id": "string",
   "firstName": "Ryan",
   "lastName": "Dinul Fatah",
   "email": "dinulfatahrayn@gmail.com",
